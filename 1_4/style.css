@@ -6,7 +6,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(d5a0gfR.jpg);
     background-size: cover;
     display: flex;
 }
@@ -22,6 +22,7 @@ header {
     padding: 0 5vw;
     box-sizing: border-box;
     text-align: right;
+    color:white;
 }
 
 .header_left p {
@@ -53,6 +54,7 @@ header {
 main {
     width: 100vw;
     height: auto;
+    text-align: center;
 }
 
 section {
